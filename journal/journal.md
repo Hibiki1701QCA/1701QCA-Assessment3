@@ -1,4 +1,4 @@
-# 1701QCA Final project journal: *Insert your name here*
+# 1701QCA Final project journal: *Hibiki Oka (s5222030)*
 
 <!--- As for other assessments, fill out the following journal sections with information relevant to your project. --->
 
@@ -77,17 +77,25 @@ This project is related to mine because the material they have used to make this
 
 *This helped me understand more about the pins as I was having trouble with space which can be seen in the fifth design process discussion.*
 
+*3. Blinking LED*
+
+*The coding helped me in making the settings of the dollroom.*
+
 ### *Brief resource name/description* ###
 
 *1. https://www.youtube.com/watch?v=iilfeimMDjM*
 
 *2. https://makecode.microbit.org/device/pins*
 
+*3. https://learn.adafruit.com/micro-bit-lesson-2-controlling-leds-on-breadboard/blinking-an-led*
+
 
 ## Conceptual development ##
 
 ### Design intent ###
 <!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
+
+My design intent is to create a toy that is interactive for young kids to play with. 
 
 ### Design ideation ###
 
@@ -117,7 +125,8 @@ This project is related to mine because the material they have used to make this
 ### Interaction flowchart ###
 <!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](missingimage.png)
+![Image](Flow.jpg)
+![Image](floww.jpg)
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
@@ -127,12 +136,6 @@ This should have quite a lot of information! It will likely include most of the 
 Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
 
 There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
-
-
-
-
-## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
 ## Design process discussion ##
 *I worked on getting the fan blade to work with the piezo element buzzer making sounds. I have used similar coding to the previous project I have done with the temperature gauge and included the coding for when the external button is pressed, sounds would be made through the buzzer with the help of experiment 6 from the Inventor’s Kit Tutorial Book.*
@@ -165,6 +168,27 @@ There will likely by a dozen or so images of the project under construction. The
 
 ![Image](ThirdPic.PNG)
 
+*In the final development of the project, I have restarted the room to be a bit bigger as there was not enough space to place the mounting plate. I have also slightly changed the design of the room from the sketch I had drawn and built in the prototype as I was not very satisfied with the design and was not sure how to implement the buttons.*
+
+*In the protoype, a lot of the cardboard could be seen which was not really what I wanted in the final result. So I used white sheets of paper to cover the majority of the material, with printed out wood for the flooring. More furnature has been added such as a seat which was just made out of origami paper and a book shelf which is cardboarded covered in paper. I also included a flag garland just to make it look more interesting.*
+
+![Image](process1.jpg)
+
+*In the next picture, it can be seen that I have removed the furnature, added a platform for the room and cut out the area where the shelf was. I was having trouble figuring out how I should implement the buttons as the wires on the breadboard would get in the way. I thought that maybe if I indented the wall and place the shelf in between the walls, the problem would be less annoying. I also redid the border of the window as I thought they were too wide.*
+
+![Image](process2.jpg)
+
+I added the furniture back inside the room with new props such as the pillow, the shelf I referred and some small tiny props on the seat which are moved later. The microbit has also been added behind the right wall. The next two pictures show the light sensor working.
+
+![Image](process3.jpg)
+
+![Image](process4.jpg)
+
+I added a roof on the room which would cover the motor of the fan.
+
+![Image](process5.jpg)
+
+
 
 
 
@@ -172,10 +196,16 @@ There will likely by a dozen or so images of the project under construction. The
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
+## Design process discussion ##
+<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
+Refering to the Double Diamond design methodology, I have discovered that the younger generation seem to be more attached with screens. I have a younger sister who spends her time playing video games or watching Youtube a lot. At least twice a day, I would find her eyes staring at the screen and would not really do anything unless told to. When she is told to do something else other than that, she says there is nothing to do.
 
+Being in the define part of the diamond, boredom seems to be an issue with many children (at least for my sister) so they turn to staring at the screen a lot which can be unhealthy for your eyes. So I wanted to create something that will help expand their list of things they can do to resolve boredom, which is the doll room.
 
+Moving to the second diamond, I came up with an idea of an interactive doll room which can light up when dark, activate the fan when the temperature is high and make sounds. 
 
+The feedback that I recieved in the prototype was to make it more interactive options beyond the automatic on/off mechanism of the features. So I return to the developing stage and was given the idea that I could make different settings depending on the buttons. 
 
 
 
@@ -187,12 +217,13 @@ There will likely by a dozen or so images of the project under construction. The
 
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
-
+*The Micro:bit Pins has given me information and better understanding of the pins and what their capabilities are.*
 
 What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
 
-
+*I think it is unique in creating different settings for the dollroom. I have not seen or heard this kind of toy so I feel that this part of the project are novel.*
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
 
+*I think it would be interesting if I could make multiple rooms so it can be a full doll house with many more features that would make it more entertaining. I also think it could have more settings.*
 
