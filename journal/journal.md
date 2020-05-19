@@ -217,13 +217,13 @@ The feedback that I recieved in the prototype was to make it more interactive op
 
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
-*The Micro:bit Pins has given me information and better understanding of the pins and what their capabilities are.*
+The Micro:bit Pins has given me information and better understanding of the pins and what their capabilities are.
 
 What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
 
-*I think it is unique in creating different settings for the dollroom. I have not seen or heard this kind of toy so I feel that this part of the project are novel.*
+I think it is unique in creating different settings for the dollroom. I have not seen or heard this kind of toy so I feel that this part of the project are novel.
 
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
 
-*I think it would be interesting if I could make multiple rooms so it can be a full doll house with many more features that would make it more entertaining. I also think it could have more settings.*
+I think it would be interesting if I could make multiple rooms so it can be a full doll house with many more features that would make it more entertaining. I also think it could have more settings.
 
