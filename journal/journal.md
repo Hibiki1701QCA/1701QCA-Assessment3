@@ -7,81 +7,68 @@
 ## Related projects ##
 <!--- Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing. --->
 
-### *Insert name of related project here* ###
-
-<!--- Modify code to insert image of related project below --->
-![Image](missingimage.png)
-
-<!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
-
-<!--- Include information about why this project is related to yours. --->
-
-<!--- Repeat code above for a total of 6 related projects --->
-
-## Other research ##
-<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
-
-
-
-
-
 
 ### Related project 1 ###
 *Name: micro:bit Smart Home (with BH1750, BME280, HC-SR501, SW-420 sensors and LCD 1602)*
 
-*URL: https://www.youtube.com/watch?v=m64T7HHNOII*
-
 ![Image](Rel1.PNG)
+
+*URL: https://www.youtube.com/watch?v=m64T7HHNOII*
 
 This project relates through the concept of building a smart home through a microbit. I found this project after starting mine as I didn’t have enough related projects and I found that this was really similar to the functions I’ve included for mine such as the automatic fan and light. *.
 
 ### Related project 2 ###
 *Name: Smarthon Smart House Kit for micro:bit (model 2)*
 
-*URL: https://www.youtube.com/watch?v=us7mOg1nLG8*
-
 ![Image](Rel2.PNG)
+
+*URL: https://www.youtube.com/watch?v=us7mOg1nLG8*
 
 This project relates through the concept of building a smart home through a microbit. This was also found after I began and I found that the creator also has a similar function with the fan however, can be manually turned on through the microbit buttons. *.
 
 ### Related project 3 ###
 *Name: micro:bit SOKIT : Making a smart house.*
 
+![Image](Rel3.PNG)
+
 *URL: https://it-it.facebook.com/thinksokit/videos/vb.1651182875206612/319983735368250/?type=2&theater*
 
-![Image](Rel3.PNG)
 
 This project relates through the concept of a smart home, with the functions of turning on light and changing colour.*.
 
 ### Related project 4 ###
 *Name: BBC micro:bit - Door Alarm system with smart Light*
 
+![Image](Rel4.PNG)
+
 *URL: https://www.youtube.com/watch?v=ZOLvpmQ5HOs*
 
-![Image](Rel4.PNG)
 
 This project relates through the concept, with the functions of a smart light and uses the buzzer to create a door alarm system.*.
 
 ### Related project 5 ###
 *Name: Micro:bit Smart Home - light, fan and alarm system.*
 
+![Image](Rel5.PNG)
+
 *URL: https://www.hackster.io/73125/micro-bit-smart-home-light-fan-and-alarm-system-bd1e6f*
 
-![Image](Rel5.PNG)
 
 This project is related to mine because it includes an automatic light and fan.*.
 
 ### Related project 6 ###
 *Microbit Smart Home Kit: Smart Home [BM]*
 
+![Image](Rel6.PNG)
+
 *URL:https://www.youtube.com/watch?v=O-ALLqKYfRo&t=83s*
 
-![Image](Rel6.PNG)
 
 This project is related to mine because the material they have used to make this project is cardboard which is the material I have mainly used.
 
 ## Other research ##
+<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
+
 *1. Micro:bit - Heat activated Fan*
 
 *This was used in the previous project of the temperature gauge, and helped me in the process of making the functions of the ceiling fan.*
@@ -97,21 +84,12 @@ This project is related to mine because the material they have used to make this
 *2. https://makecode.microbit.org/device/pins*
 
 
-
-
-
-
-
 ## Conceptual development ##
 
 ### Design intent ###
 <!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
 
 ### Design ideation ###
-
-
-
-
 
 ### Design concept 1 ###
 
@@ -124,15 +102,9 @@ This project is related to mine because the material they have used to make this
 
 ![Image](Concept2.PNG)
 
-
-
-
-
-
 ### Final design concept ###
 <!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
-
-
+    
 
 *The third and chosen concept would be a room which the light would turn on when its dark, the fan would turn on when the temperature is high and different songs would be played with one button.*
 *The main materials to be used would be cardboard for the structure of the room and furniture and paper for covering the cardboard.*
@@ -159,7 +131,8 @@ There will likely by a dozen or so images of the project under construction. The
 
 
 
-
+## Design process discussion ##
+<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
 ## Design process discussion ##
 *I worked on getting the fan blade to work with the piezo element buzzer making sounds. I have used similar coding to the previous project I have done with the temperature gauge and included the coding for when the external button is pressed, sounds would be made through the buzzer with the help of experiment 6 from the Inventor’s Kit Tutorial Book.*
@@ -199,8 +172,13 @@ There will likely by a dozen or so images of the project under construction. The
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
 
-## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
+
+
+
+
+
+
+
 
 
 ## Reflection ##
@@ -209,6 +187,12 @@ There will likely by a dozen or so images of the project under construction. The
 
 What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?
 
+
+
 What parts of your project do you feel are novel. This is IMPORTANT to help justify a key component of the assessment rubric.
 
+
+
 What might be an interesting extension of this project? In what other contexts might this project be used? --->
+
+
