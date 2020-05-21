@@ -24,7 +24,7 @@ The doll room is able to turn on the miniture fan when it is at a high temperatu
 
 <!--- PROJECT VIDEO: Provide a still image from your video and a link to the video below. In that code, replace `missingimage.png` with the still from your video and the URL of the video where indicated. If you link to a password protected video, you must include the password in the document you submit through Learning@Griffith. Failing to have a video that we can access might lead to significant reduction in marks, potentially as much as if the video has not been submitted at all. --->
 
-[![Image](missingimage.png)](https://your video address)
+[![Image](final2.jpg)](https://youtu.be/TrnX1-LCYU8)
 
 ### Journal ###
 
