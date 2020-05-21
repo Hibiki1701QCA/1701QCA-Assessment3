@@ -188,13 +188,15 @@ I added a roof on the room which would cover the motor of the fan.
 
 ![Image](process5.jpg)
 
+Finally I added a wall behind the shelf and put the buttons that will change the setting on it.
 
-
-
+![Image](final.jpg)
 
 ## Final code ##
 
 <!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+
+![Image](finalcode.PNG)
 
 ## Design process discussion ##
 <!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
@@ -206,9 +208,6 @@ Being in the define part of the diamond, boredom seems to be an issue with many 
 Moving to the second diamond, I came up with an idea of an interactive doll room which can light up when dark, activate the fan when the temperature is high and make sounds. 
 
 The feedback that I recieved in the prototype was to make it more interactive options beyond the automatic on/off mechanism of the features. So I return to the developing stage and was given the idea that I could make different settings depending on the buttons. 
-
-
-
 
 
 ## Reflection ##
